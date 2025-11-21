@@ -1,5 +1,11 @@
 [
     {
+        "email": "https://youtube.com/@banzyo-jesda",
+        "image": "https://yt3.googleusercontent.com/SaZVOfBPFxi4vzWTLBVTYlsIGHifSaPYro2bT2X1W3YR9TNb8OrTl9LcIDaPS62jbLvQKQTuVQ=s160-c-k-c0x00ffffff-no-rj",
+        "name": "Banezy Official",
+        "role": "Script Provider"
+    },
+    {
         "email": "https://youtube.com/@franzy909?si=iYvAPSqgY2nCC_nT",
         "image": "https://dl.memuplay.com/new_market/img/com.zenhub.gfx.icon.2024-02-21-09-45-49.png",
         "name": "Zendevour",
@@ -21,12 +27,6 @@
         "email": "https://youtube.com/@rmdragneelchannel?si=Babm0VTlaJaEAdY5",
         "image": "https://static.wikia.nocookie.net/fairytail/images/f/f8/Larcade%27s_image.png/revision/latest?cb=20190526083042",
         "name": "RM Dragneel",
-        "role": "App Promoter"
-    },
-    {
-        "email": "https://youtube.com/@killuaplays-zl4gy?si=VwM21FRnwLnVFFcN",
-        "image": "https://yt3.googleusercontent.com/lS90WGw0K094vLp2y4N5a9uOoZkssOiyfK6voDgxx0fLY2yVk-qoWS0fNvSLpSIKejBtNx9RGg=s160-c-k-c0x00ffffff-no-rj",
-        "name": "Killua playz",
         "role": "App Promoter"
     }
 ]
